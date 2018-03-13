@@ -5,7 +5,9 @@ date:   2018-03-12 13:27:47 +0530
 categories: jekyll update
 comments: true
 ---
-National Geographic Magazine layout
+This was an assignment for Typography II.
+
+National Geographic Magazine layout for Bali
 
 Layout 1
 
@@ -17,7 +19,7 @@ Layout 2
 ![a015_vanya_typography_layout22](https://user-images.githubusercontent.com/36835039/37271873-c194784a-25fa-11e8-917b-2ca968be254d.jpg)
 ![a015_vanya_typography_layout23](https://user-images.githubusercontent.com/36835039/37271879-c9ff17ec-25fa-11e8-905c-8ecf765055b5.jpg)
 
-Thanks for visiting!
+Thanks for visiting! Please let me know what you think of my work.
 
 {% if page.comments %}
 
