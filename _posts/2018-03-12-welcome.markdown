@@ -11,8 +11,6 @@ Till then enjoy and please comment if you like my work :)
 
 ![a5zvvan_700b](https://user-images.githubusercontent.com/36835039/37865242-c3c067a6-2f9f-11e8-950e-5633d4789b52.jpg)
 
-
-
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
