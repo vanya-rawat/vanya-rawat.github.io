@@ -5,7 +5,9 @@ date:   2018-03-12 13:27:47 +0530
 categories: jekyll update
 comments: true
 ---
-tessellation
+Hello Everyone!
+
+Tessellation
 
 ˌtɛsəˈleɪʃ(ə)n/
 noun
@@ -19,7 +21,7 @@ For my 1st Assignment of semester 1 we had to make a tessellation. We had to cut
 ![a015_vanya_tessellation](https://user-images.githubusercontent.com/36835039/37865139-4fbcf4e2-2f9e-11e8-8059-6a52f5fc3abb.jpg)
 
 
-Thanks for visiting! Please let me know what you think of my work.
+Thanks for visiting! Please let me know what you think of my work in the comments section below.
 
 
 {% if page.comments %}

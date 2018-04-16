@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Visual Drama"
-date:   2018-03-25 13:27:47 +0530
+title:  "Typography: Bali Layout"
+date:   2018-03-12 13:27:47 +0530
 categories: jekyll update
+comments: true
 ---
 Hello Everyone!
 
-Visual Drama
+This is an assignment I did for Cultural Narratives
+The assignment brief was to pick a character from mythology or a comic book superhero. We had to rework the imagery of the chosen character and make it more relevant to 2018. We were also supposed to use a skill from another class in this assignment.
+I don't want to bore you guys so I won't attach my 500 word essay on my character but if many people want to read it, I'll be open to uploading it. Let me know in the comments section!
 
-This is an assignment I did  for Visual Articulation.
-The assignment brief was to pick a genre and imagine a scene that fit it.
-I chose Fantasy so I wanted to show that magical element in my photoshop assignment.
+I chose Hades as my character and to give this old Greek God a modern twist, I reimagined him as a young business tycoon who owns a successful casino in Las Vegas. He lives in the age of social media and growing fashion industry. His look is modern, gothic chic. Very rich kids of instagram.
 
-
-![a015_vanya_visual drama_ copy copy](https://user-images.githubusercontent.com/36835039/37885178-6272fbe8-30d1-11e8-8e7d-9d5792e7ffc7.jpg)
+![hades_cn_ass3](https://user-images.githubusercontent.com/36835039/38792743-2e7060e6-416c-11e8-9230-06d17c72a920.jpg)
 
 
 Thanks for visiting! Please let me know what you think of my work in the comments section below.

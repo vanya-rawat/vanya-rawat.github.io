@@ -5,9 +5,11 @@ date:   2018-03-12 13:27:47 +0530
 categories: jekyll update
 comments: true
 ---
-This was an assignment for Typography II.
+Hello Everyone!
 
-National Geographic Magazine layout for Bali
+Magazine Layout
+
+This was an assignment for Typography II. The assignment brief was to make a 2 magazine layouts for Nat Geo travel magazine. The magazine spread should entice young adults to visit the place you've written about.
 
 Layout 1
 
@@ -19,7 +21,7 @@ Layout 2
 ![a015_vanya_typography_layout22](https://user-images.githubusercontent.com/36835039/37271873-c194784a-25fa-11e8-917b-2ca968be254d.jpg)
 ![a015_vanya_typography_layout23](https://user-images.githubusercontent.com/36835039/37271879-c9ff17ec-25fa-11e8-905c-8ecf765055b5.jpg)
 
-Thanks for visiting! Please let me know what you think of my work.
+Thanks for visiting! Please let me know what you think of my work in the comments section below.
 
 {% if page.comments %}
 
