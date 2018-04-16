@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Typography: Bali Layout"
-date:   2018-03-12 13:27:47 +0530
+title:  "Reworking Myths"
+date:   2018-04-16 12:06:38 +0530
 categories: jekyll update
 comments: true
 ---
@@ -9,7 +9,8 @@ Hello Everyone!
 
 This is an assignment I did for Cultural Narratives
 The assignment brief was to pick a character from mythology or a comic book superhero. We had to rework the imagery of the chosen character and make it more relevant to 2018. We were also supposed to use a skill from another class in this assignment.
-I don't want to bore you guys so I won't attach my 500 word essay on my character but if many people want to read it, I'll be open to uploading it. Let me know in the comments section!
+
+I don't want to bore you guys so I won't attach my 500 word essay on my character but if many people want to read it, I'll be open to uploading it. Let me know in the comments section below!
 
 I chose Hades as my character and to give this old Greek God a modern twist, I reimagined him as a young business tycoon who owns a successful casino in Las Vegas. He lives in the age of social media and growing fashion industry. His look is modern, gothic chic. Very rich kids of instagram.
 
