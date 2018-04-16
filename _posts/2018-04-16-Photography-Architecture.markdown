@@ -7,12 +7,12 @@ comments: true
 ---
 Hello Everyone!
 
-For our first photography assignment we went to Dr. Bahu Daji Lad Musuem in Byculla.
-It is the oldest musuem in Mumbai and was orginally established as a treasure house of industrial and decorative arts.
-It is built in Renaissance style and as originally named Victoria and ALbert Musuem.
+For our first photography assignment we went to Dr. Bahu Daji Lad Museum in Byculla.
+It is the oldest museum in Mumbai and was originally established as a treasure house of industrial and decorative arts.
+It is built in Renaissance style and as originally named Victoria and Albert Museum.
 
-Our assignment brief was to capture the interior and exterior of the musuem, along with the artifacts on display.
-We had to keep in mind that our photographs could be used for a mock assignment such as a musuem brochure/invitation card design.
+Our assignment brief was to capture the interior and exterior of the museum, along with the artefacts on display.
+We had to keep in mind that our photographs could be used for a mock assignment such as a museum brochure/invitation card design.
 
 
 

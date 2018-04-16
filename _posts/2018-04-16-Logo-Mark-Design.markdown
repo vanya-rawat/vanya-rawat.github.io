@@ -8,7 +8,7 @@ comments: true
 Hello Everyone!
 
 This is an assignment I did for Typography II.
-The assignment brief was to create a logo type using relevant typeface to create a visual identity for the brand assigned. We were supposed to cascade the logomark on stationary items - business cards, letterheads, and envelopes. We also has to craft an app icon for it. The final deliverable has to be as mockups.
+The assignment brief was to create a logo type using relevant typeface to create a visual identity for the brand assigned. We were supposed to cascade the logo mark on stationary items - business cards, letterheads, and envelopes. We also has to craft an app icon for it. The final deliverable has to be as mockups.
 
 The brand assigned to me was Sony.
 
