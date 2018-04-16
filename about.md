@@ -5,10 +5,15 @@ permalink: /about/
 ---
 Hello Everyone!
 
-I made this blog for my Technology Intervention class and I'm going to post assignments that I do at college here. I might add some other stuff like book reviews or travel journals. I'll keep you guys posted!
-Till then enjoy and please comment if you like my work :)
+I made this blog for my Technology Intervention class and I'm going to post assignments that I do at college here. I might add some other stuff like book reviews or travel journals. I'm going to update my website every week so tune in to see some amazing work. I'll keep you guys posted!
 
+Till then enjoy and please comment if you like my work :)
 ![a5zvvan_700b](https://user-images.githubusercontent.com/36835039/37865242-c3c067a6-2f9f-11e8-950e-5633d4789b52.jpg)
+
+
+Just a reminder. All my work is original and I've struggled a lot to get it done. So I would appreciate it if you guys didn't rip off my work. THANKS
+
+![images 2](https://user-images.githubusercontent.com/36835039/38801382-4824e46a-4187-11e8-9c60-5c1c279dd903.jpeg)
 
 
 {% if page.comments %}
